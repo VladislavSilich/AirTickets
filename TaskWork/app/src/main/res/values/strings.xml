@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskWork</string>
+    <string name="sort_by">Сортировать по</string>
+    <string name="editText_hint_city1"><font size="17">Москва</font></string>
+    <string name="editText_hint_city2"><font size="17">Минск</font></string>
+    <string name="editText_hint_date1"><font size="15">dd.mm.yyyy</font></string>
+    <string name="editText_hint_date2"><font size="15">dd.mm.yyyy</font></string>
+    <string name="startCity">Город вылета:</string>
+    <string name="endCity">Город прилёта</string>
+    <string name="startDate">Дата вылета:</string>
+    <string name="endDate">Дата прилёта:</string>
+    <string name="sortCollection">Сортировать по:</string>
+    <string name="btnSearch">Найти</string>
+    <string name="btnPrevious">Предыдущая</string>
+    <string name="btnNext">Следующая</string>
+</resources>
