@@ -1,1 +1,0 @@
-The test application AirTickets works with two cities : Moscow, Simferopol.

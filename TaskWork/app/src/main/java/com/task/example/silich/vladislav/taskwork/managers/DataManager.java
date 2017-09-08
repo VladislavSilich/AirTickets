@@ -18,11 +18,11 @@ public class DataManager {
     private static DataManager INSTANCE = null;
     private RestService service;
 
-    public DataManager(){
+    private DataManager(){
         this.service = ServiceGenerator.createService(RestService.class);
     }
 
-    public static DataManager getInstnce (){
+    private static DataManager getInstnce (){
         if (INSTANCE == null){
             INSTANCE = new DataManager();
         }
